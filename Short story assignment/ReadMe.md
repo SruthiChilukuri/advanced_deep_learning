@@ -7,7 +7,7 @@ Here are the concernced Links:<br>
 
 * [Medium Article](https://srisruthichilukuri.medium.com/synthesizing-electrocardiogram-ecg-from-photoplethysmogram-ppg-using-generative-adversarial-60c9724d9e70 "Medium Article")
 
-* [SlideShare PPT](https://www.slideshare.net/SriSruthiChilukuri/spatio-temporal-data-mining?qid=1fcebad5-03a5-4aa2-a68d-530ad4b3fd0b&v=&b=&from_search=1 "SlideShare Presentation")
+* [SlideShare PPT](https://www.slideshare.net/SriSruthiChilukuri/synthesizing-ecg-from-ppg-using-gans"SlideShare Presentation")
 
 * [Presentation Video Link](https://www.youtube.com/watch?v=VMWW03P1dCg
 "Youtube Link of Presentation")
