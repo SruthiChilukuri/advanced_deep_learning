@@ -9,5 +9,5 @@ Here are the concernced Links:<br>
 
 * [SlideShare PPT](https://www.slideshare.net/SriSruthiChilukuri/synthesizing-ecg-from-ppg-using-gans "SlideShare Presentation")
 
-* [Presentation Video Link](https://www.youtube.com/watch?v=VMWW03P1dCg
+* [Presentation Video Link](https://youtu.be/y1s-PMC_Cwk
 "Youtube Link of Presentation")
